@@ -29,6 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-redirect-from
 
 remote_theme: jonaharagon/jekyll-bootstrap-theme
 # Theme configuration information: https://github.com/jonaharagon/jekyll-bootstrap-theme
