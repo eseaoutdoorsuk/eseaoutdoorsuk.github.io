@@ -17,12 +17,12 @@
             {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <li class="nav-item">
+            <li class="nav-item align-items-center d-flex">
               <a class="nav-link {% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             </li>
             {%- endif -%}
             {%- endfor -%}
-            <li class="nav-item" style="display: flex; align-items: center;">
+            <li class="nav-item">
                 <a class="nav-link text-dark" href="https://instagram.com/eseaoutdoorsuk" target="_blank">
                     <i class="bi bi-instagram fs-2"></i>
                 </a>
