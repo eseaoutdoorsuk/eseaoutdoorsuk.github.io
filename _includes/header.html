@@ -7,7 +7,7 @@
         <a class="navbar-brand" href="{{ "/" | relative_url }}">
             <img src="/assets/img/logo.png" width="50" height="50" alt="">
         </a>
-        <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <a class="navbar-brand fw-bold" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
         {%- if titles_size > 0 -%}
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -22,6 +22,11 @@
             </li>
             {%- endif -%}
             {%- endfor -%}
+            <li class="nav-item">
+                <a class="nav-link text-dark" href="https://instagram.com/eseaoutdoorsuk" target="_blank">
+                    <i class="bi bi-instagram fs-3"></i>
+                </a>
+            </li>
           </ul>
         </div>
         {%- endif -%}
