@@ -5,7 +5,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container">
         <a class="navbar-brand" href="{{ "/" | relative_url }}">
-            <img src="logo.png" alt="Logo" class="logo">
+            {% include logo.png %}
         </a>
         <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
         {%- if titles_size > 0 -%}
