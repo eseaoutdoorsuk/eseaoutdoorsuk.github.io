@@ -34,3 +34,5 @@ We abide by the following policy within our spaces or those we associate ourselv
 - **Social**: like other communities we build social relationships outside of events and online spaces. We commit to this Safer Spaces policy wherever we are together. We reserve the right to refuse participation if members appear intoxicated.
 - **Security**: please don’t use the names, photographs or other identifying details of people who have been involved in organising or attending our events without their explicit consent. This makes sure that journalists, Police or other unknown people don’t hold information that could put participants at risk of harm.
 - **Community accountability**: we expect all our members to hold each other accountable, by calling out and challenging unacceptable behaviour during and outwith our activities, events or within our offline or online spaces. We have a responsibility to protect and uplift each other. If you have any concerns about your safety or the safety of others at any ESEA Outdoors event or in our online spaces, please notify one of the ESEA Outdoors administrators immediately. 
+
+💛 ESEA love from the ESEA Outdoors admins
