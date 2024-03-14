@@ -7,10 +7,10 @@ permalink: /guidelines/
 
 ## Our Principles
 
-1. We exist to fight racism and celebrate ESEA representation in the UK outdoors. We have built this community to connect ESEA outdoor enthusiasts in the UK. While we appreciate we all have other interests, please be mindful of what you promote or discuss in the ESEA Outdoors WhatsApp community. Please keep messages in our group chats to these topics.
-2. We value inclusive representation, equity and equality within our own community, and we acknowledge the intersectionality of our community. We operate a Safer Spaces policy during all activities, events, in our WhatsApp community and online. Please see our Safer Spaces policy below on what this means.
+1. We exist to fight racism and celebrate ESEA representation in the UK outdoors. We have built this community to connect ESEA outdoor enthusiasts in the UK. While we appreciate we all have other interests, please be mindful of what you promote or discuss in the ESEA Outdoors WhatsApp community, and keep messages to these topics.
+2. We value inclusive representation, equity and equality within our own community, and we acknowledge the intersectionality of our community. We operate a [Safer Spaces policy](#our-safer-spaces-policy) during all activities, events, in our WhatsApp community and online: see below.
 3. Our community is run by its members, so please actively participate in building our community, engage with others and help to plan activities. We all run ESEA Outdoors in our free time, so please be respectful of the efforts of others and how you communicate with each other.
-4. We reserve the right to limit or delete comments on our Instagram page, and to remove or ban members from our WhatsApp groups, Instagram page and at in-person events who breach our Principles or Safer Spaces Policy.
+4. We reserve the right to limit or delete comments on our Instagram page, and to remove or ban members from our WhatsApp groups, Instagram page and at in-person events who breach our Principles or [Safer Spaces policy](#our-safer-spaces-policy).
 
 ## Our Safer Spaces policy
 
