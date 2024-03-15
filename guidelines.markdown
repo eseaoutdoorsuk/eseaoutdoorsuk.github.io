@@ -14,7 +14,7 @@ permalink: /guidelines/
 
 ## Our Safer Spaces policy
 
-This policy is a guideline. It draws on the policy of others, including the [Scottish BPOC Writers Network](https://scottishbpocwritersnetwork.org/safer-spaces-policy/), and it should change as we learn and grow.
+This policy is a guideline. It draws on the policy of others, including the Scottish BPOC Writers Network, and it should change as we learn and grow.
 
 It should tell you what you can expect from ESEA Outdoors and what you commit to as part of our community, whether in-person at one of our events, in our WhatsApp groups or online. We have high expectations of how we behave towards each other in any space we are a part of, within and outwith ESEA Outdoors. 
 
