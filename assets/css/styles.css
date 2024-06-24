@@ -1,0 +1,4 @@
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* Adjust this if you see a gap */
+}

@@ -1,11 +1,11 @@
-<header>
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.bootstrap.header_pages | default: default_paths -%}
+<header class="p-2 text-bg-light">
+<!--     {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.bootstrap.header_pages | default: default_paths -%} -->
 
-    <nav class="navbar navbar-expand-md navbar-light bg-light">
+    <nav class="navbar navbar-expand-md navbar-light">
       <div class="container">
         <a class="navbar-brand" href="{{ "/" | relative_url }}"><img src="/assets/img/logo.png" width="40" height="40" alt=""></a>
-        <a class="navbar-brand fw-bold" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <a class="navbar-brand fw-bold" href="https://eseaoutdoorsuk.carrd.co/">ESEA Outdoors UK</a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
