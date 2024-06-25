@@ -7,6 +7,8 @@ permalink: /2024-bmc-summit/
 
 **This article was originally published in the Summer 2024 issue of BMC Summit magazine.**
 
+---
+
 _The outdoors is changing, and this running and hiking event is at the forefront of championing diversity in the sport. **Andrew Wang**, founder of [ESEA Outdoors UK](https://eseaoutdoorsuk.carrd.co/), shares his story_
 
 <img src="/assets/img/summit-1.jpg" alt="GL3D Image 1" style="width:100%;">
@@ -38,16 +40,18 @@ As my talk went on, there was a growing sense of, "great, but why should I care?
 ### Systemic change
 Building diversity is hard, complex and nuanced. For an internationally respected events company to put their head above the parapet and use their position of power to have an uncomfortable conversation is admirable. As Shane put in his [Director's Report](https://www.greatlakeland3day.com/news/2024/4/23/2024-scarpa-great-lakeland-3-day-event-director-report), "It's insufficient to be silently not racist: you must be anti-racist in both actions and words". Diversity is not just a one-off, and it takes commitment to grassroots communities to achieve systemic change. We're already so excited to make a return in 2025. 🟡
 
-> ### What can I do?
->
-> - Follow ESEA Outdoors on Instagram [**@eseaoutdoorsuk**](https://www.instagram.com/eseaoutdoorsuk/)
-> - Educate yourself by checking out hubs like [**All The Elements**](https://www.alltheelements.co/written-press).
-> - **Advocate** for anti-racism at your club, on the hills and at the crag.
-> - If you're a business, **reach out**. Communities like us can't enact systemic change alone.
+---
+
+### What can I do?
+
+- Follow ESEA Outdoors on Instagram [**@eseaoutdoorsuk**](https://www.instagram.com/eseaoutdoorsuk/)
+- Educate yourself by checking out hubs like [**All The Elements**](https://www.alltheelements.co/written-press).
+- **Advocate** for anti-racism at your club, on the hills and at the crag.
+- If you're a business, **reach out**. Communities like us can't enact systemic change alone.
 
 ### Meet the writer
 
-**Andrew Wang** is a fell-runner, data scientist and activist based in the Scottish Borders. Andrew grew up running on gritstone edges in the Peaks and now spends his time exploring local Scottish trails and hills. Find him [**@eseaoutdoorsuk**](https://www.instagram.com/eseaoutdoorsuk/)
+**Andrew Wang** is a fell-runner, data scientist and activist based in the Scottish Borders. Andrew grew up running on gritstone edges in the Peaks and now spends his time exploring local Scottish trails and hills. [**Get in touch**](https://linktr.ee/andrew.wang) or find him on [**@eseaoutdoorsuk**](https://www.instagram.com/eseaoutdoorsuk/)
 
 <img src="/assets/img/summit-5.jpg" alt="GL3D Image 5" style="width:100%;">
 
