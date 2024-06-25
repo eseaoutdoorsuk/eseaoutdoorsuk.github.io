@@ -11,6 +11,8 @@ _The outdoors is changing, and this running and hiking event is at the forefront
 
 ![](assets/img/summit-1.jpg)
 
+<img src="assets/img/summit-1.jpg" alt="Image description" style="width:100%;">
+
 <span style="color:gray">_Photo: © Great Lakeland 3 Day | Steve Ashworth_</span>
 
 Legs heavy from a second 20 mile day navigating over the Buttermere fells, I sat down on stage in front of the audience that'd started to gather for my evening talk in the marquee at the [Scarpa Great Lakeland 3 Day](https://www.greatlakeland3day.com/) (GL3D). Up until recently, as a person of East & Southeast Asian (ESEA) heritage, I'd never felt a sense of belonging at mountain running events. Now, looking back at the community who'd shown up to listen to my experiences, I began to feel like the sport was finally starting to change.
