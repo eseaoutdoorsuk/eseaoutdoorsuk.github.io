@@ -11,7 +11,7 @@ _The outdoors is changing, and this running and hiking event is at the forefront
 
 ![](assets/img/summit-1.jpg)
 
-<img src="assets/img/summit-1.jpg" alt="Image description" style="width:100%;">
+<img src="/assets/img/summit-1.jpg" alt="Image description" style="width:100%;">
 
 <span style="color:gray">_Photo: © Great Lakeland 3 Day | Steve Ashworth_</span>
 
