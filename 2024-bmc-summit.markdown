@@ -9,7 +9,7 @@ permalink: /2024-bmc-summit/
 
 ---
 
-> Update: ESEA Outdoors UK member Charmaine shares her own reflections [on her blog](https://quotidianresistance.substack.com/p/scarpa-great-lakeland-3day).
+> _Update: ESEA Outdoors UK member Charmaine shares her own reflections [on her blog](https://quotidianresistance.substack.com/p/scarpa-great-lakeland-3day)._
 
 ---
 
