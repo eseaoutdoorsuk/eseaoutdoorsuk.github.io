@@ -9,6 +9,10 @@ permalink: /2024-bmc-summit/
 
 ---
 
+> Update: ESEA Outdoors UK member Charmaine shares her own reflections [on her blog](https://quotidianresistance.substack.com/p/scarpa-great-lakeland-3day).
+
+---
+
 _The outdoors is changing, and this running and hiking event is at the forefront of championing diversity in the sport. **Andrew Wang**, founder of [ESEA Outdoors UK](https://eseaoutdoorsuk.carrd.co/), shares his story_
 
 <img src="/assets/img/summit-1.jpg" alt="GL3D Image 1" style="width:100%;">
