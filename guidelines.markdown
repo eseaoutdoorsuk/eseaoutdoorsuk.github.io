@@ -5,6 +5,15 @@ full_title: ESEA Outdoors Community Guidelines
 permalink: /guidelines/
 ---
 
+## Introduction
+
+By joining the ESEA Outdoors UK community, you accept and abide by our following policies both online and at our organised meet-ups.
+
+1. [Our Principles](#our-principles)
+2. [Safer Spaces Policy](#our-safer-spaces-policy)
+3. [Social Media Policy](#social-media-policy)
+4. [Event Participation Statement](#event-participation-statement)
+
 ## Our Principles
 
 1. We exist to fight racism and celebrate ESEA representation in the UK outdoors. We have built this community to connect ESEA outdoor enthusiasts in the UK. While we appreciate we all have other interests, please be mindful of what you promote or discuss in the ESEA Outdoors WhatsApp community, and keep messages to these topics.
@@ -16,7 +25,7 @@ permalink: /guidelines/
 
 This policy is a guideline. It draws on the policy of others, including the Scottish BPOC Writers Network, and it should change as we learn and grow.
 
-It should tell you what you can expect from ESEA Outdoors and what you commit to as part of our community, whether in-person at one of our events, in our WhatsApp groups or online. We have high expectations of how we behave towards each other in any space we are a part of, within and outwith ESEA Outdoors. 
+It should tell you what you can expect from ESEA Outdoors and what you commit to as part of our community, whether in-person at one of our events, in our Heylo community or online. We have high expectations of how we behave towards each other in any space we are a part of, within and outwith ESEA Outdoors. 
 
 Our community should be an inclusive and supportive space for all, and in particular for women (trans, intersex and cis) and all nonbinary, agender and gender variant people. Self-definition is at the sole discretion of that individual. We will not tolerate verbal or physical abuse, nor microaggressions to include racism, anti-Blackness, colourism, xenophobia, misogyny, transphobia, homophobia, misgendering, ableism, islamophobia, anti-Semitism, incorrectly identifying one’s ethnic origins or race, or anything tantamount to hate speech or an attempt to belittle or abuse another person or persons. Pro-occupation, pro-war, pro-colonialism, fascism, and white supremacist sentiments will not be permitted on our platforms and in our spaces.
 
@@ -36,3 +45,15 @@ We abide by the following policy within our spaces or those we associate ourselv
 - **Community accountability**: we expect all our members to hold each other accountable, by calling out and challenging unacceptable behaviour during and outwith our activities, events or within our offline or online spaces. We have a responsibility to protect and uplift each other. If you have any concerns about your safety or the safety of others at any ESEA Outdoors event or in our online spaces, please notify one of the ESEA Outdoors administrators immediately. They are identified as ‘Community Admins’ on WhatsApp.
 
 💛 ESEA love from the ESEA Outdoors admins
+
+## Social media policy
+
+TBC...
+
+## Event participation statement
+
+**ESEA Outdoors UK recognises that climbing and walking are activities with danger of personal injury or death. Participants in these activities should be aware of and accept these risks and be responsible for their own actions and involvement.**
+
+_Adapted from the BMC Participation Statement_
+
+Notably, each member is responsible for their own actions and decisions while at an event, and to judge their own level of ability, experience and kit. No member is responsible for any other member, regardless of experience.
