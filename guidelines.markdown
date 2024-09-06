@@ -7,19 +7,24 @@ permalink: /guidelines/
 
 ## Introduction
 
+The ESEA Outdoors UK community is for outdoors and nature enthusiasts self-identifying with East & Southeast Asian (ESEA) heritage who are passionate about anti-racism, representation and inclusion.
+
 By joining the ESEA Outdoors UK community, you accept and abide by our following policies both online and at our organised meet-ups.
 
 1. [Our Principles](#our-principles)
 2. [Safer Spaces Policy](#our-safer-spaces-policy)
-3. [Social Media Policy](#social-media-policy)
-4. [Event Participation Statement](#event-participation-statement)
+3. [Event Participation Statement](#event-participation-statement)
+4. [Social Media Policy](#social-media-policy)
+5. [Privacy Policy](#privacy-policy)
+
+💛 Any questions and comments get in touch with the ESEA Outdoors admins [via email or Instagram](https://eseaoutdoorsuk.carrd.co).
 
 ## Our Principles
 
 1. We exist to fight racism and celebrate ESEA representation in the UK outdoors. We have built this community to connect ESEA outdoor enthusiasts in the UK. While we appreciate we all have other interests, please be mindful of what you promote or discuss in the ESEA Outdoors WhatsApp community, and keep messages to these topics.
-2. We value inclusive representation, equity and equality within our own community, and we acknowledge the intersectionality of our community. We operate a [Safer Spaces policy](#our-safer-spaces-policy) during all activities, events, in our WhatsApp community and online: see below.
+2. We value inclusive representation, equity and equality within our own community, and we acknowledge the intersectionality of our community. All our events are ESEA-only unless otherwise specified. We operate a [Safer Spaces policy](#our-safer-spaces-policy) during all activities, events, in our WhatsApp community and online: see below.
 3. Our community is run by its members, so please actively participate in building our community, engage with others and help to plan activities. We all run ESEA Outdoors in our free time, so please be respectful of the efforts of others and how you communicate with each other.
-4. We reserve the right to limit or delete comments on our Instagram page, and to remove or ban members from our WhatsApp groups, Instagram page and at in-person events who breach our Principles or [Safer Spaces policy](#our-safer-spaces-policy).
+4. We reserve the right to limit or delete comments on our Instagram page, and to remove or ban members from our WhatsApp, Heylo and Instagram and at in-person events who breach our Principles or [Safer Spaces policy](#our-safer-spaces-policy).
 
 ## Our Safer Spaces policy
 
@@ -46,14 +51,41 @@ We abide by the following policy within our spaces or those we associate ourselv
 
 💛 ESEA love from the ESEA Outdoors admins
 
-## Social media policy
-
-TBC...
-
 ## Event participation statement
 
 **ESEA Outdoors UK recognises that climbing and walking are activities with danger of personal injury or death. Participants in these activities should be aware of and accept these risks and be responsible for their own actions and involvement.**
 
 _Adapted from the BMC Participation Statement_
 
-Notably, each member is responsible for their own actions and decisions while at an event, and to judge their own level of ability, experience and kit. No member is responsible for any other member, regardless of experience.
+Notably, each member is responsible for their own actions and decisions while at an event, and to judge their own level of ability, experience, health and kit, and to take appropriate steps in safeguarding themselves. No member or leader is responsible for any other member, regardless of experience or seniority.
+
+## Social media policy
+
+At ESEA Outdoors, we take content during our events and we collect content from our community. We encourage taking and sharing photos and videos to inspire and empower each other and to celebrate representation. We operate by the following policies regarding photography, social media and press:
+
+- We will seek your permission before any content that identifies you appears publicly on our social media, in press, or anywhere else where we have online presence. If you produce your own content on behalf of ESEA Outdoors UK, we request that you do similarly.
+- We will seek your permission to publicly reshare any content produced by you.
+- We generally collect photos from our community using open-access Google Photos links. Google Photos requires a log-in and shows your profile picture and name. Whilst we use Google Photos for familiarity, we accept photos via other services if desired.
+- Photos shared on [our Heylo community](https://heylo.group/eseaoutdoorsuk) are visible to all other community members via the Member Album functionality.
+
+## Privacy Policy
+
+### What data we collect
+
+For social media, photography and press policy, please see [above](#social-media-policy). Outside Instagram, ESEA Outdoors UK activities are organised via [our Heylo group](https://heylo.group/eseaoutdoorsuk). The login is created using personal data provided by you, including email address and name. We encourage you to use your personal name to build trust within our community. Optional data includes photos of yourself, icebreaker questions, and your location. We encourage you to provide these to introduce yourself to other community members. Only your name must be visible to other users of the website. Other personal details are visible by the Heylo admins only.
+
+Occasionally, community events will be open to non-community members, for example during ESEA Heritage Month. Non-community members appear as "Guest" on event lists and your name will be publicly visible.
+
+Occasionally, before or during events, we will collect emergency contact information if appropriate. All emergency contact information will be destroyed within 1 month of the event.
+
+### How we use your information
+
+ESEA Outdoors UK takes your privacy seriously. We will only use your personal information to administer your account. In our Heylo community, your personal information is also subject to [Heylo's privacy policy](https://www.heylo.com/privacy) which you are asked to accept upon joining. Learn more about [Heylo's privacy options here](https://howitworks.heylo.com/help/group-privacy-and-data).
+
+If provided, your provided location text is used, without other details, to populate our publicly-visible [anonymous community map](https://eseaoutdoorsuk.github.io/map).
+
+All communications from us to you will be via Heylo (via group chat, DM, push notification or email announcement), and never externally (such as WhatsApp or direct email), unless a prior expectation has been agreed. You may opt-out by leaving the relevant group chats or leaving the community.
+
+We will never share your personal information with any third-parties unless with explicit direct permission from you, for example for the purpose of externally organised event registration where ESEA Outdoors UK has been invited to participate and you have agreed to register.
+
+💛 Any questions and comments, or if you are unhappy with how your data is being used, get in touch with the ESEA Outdoors admins [via email or Instagram](https://eseaoutdoorsuk.carrd.co).
