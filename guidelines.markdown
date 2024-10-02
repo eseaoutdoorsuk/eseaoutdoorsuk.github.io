@@ -65,6 +65,7 @@ At ESEA Outdoors, we take content during our events and we collect content from 
 
 - We will seek your permission before any content that identifies you appears publicly on our social media, in press, or anywhere else where we have online presence. If you produce your own content on behalf of ESEA Outdoors UK, we request that you do similarly.
 - We will seek your permission to publicly reshare any content produced by you.
+- You must seek permission from all identifiable people that appear in any public content you make in relation to ESEA Outdoors UK.
 - We generally collect photos from our community using open-access Google Photos links. Google Photos requires a log-in and shows your profile picture and name. Whilst we use Google Photos for familiarity, we accept photos via other services if desired.
 - Photos shared on [our Heylo community](https://heylo.group/eseaoutdoorsuk) are visible to all other community members via the Member Album functionality.
 
@@ -84,7 +85,7 @@ ESEA Outdoors UK takes your privacy seriously. We will only use your personal in
 
 If provided, your provided location text is used, without other details, to populate our publicly-visible [anonymous community map](https://eseaoutdoorsuk.github.io/map).
 
-All communications from us to you will be via Heylo (via group chat, DM, push notification or email announcement), and never externally (such as WhatsApp or direct email), unless a prior expectation has been agreed. You may opt-out by leaving the relevant group chats or leaving the community.
+All communications from us to you will be via Heylo (via group chat, DM, push notification or email announcement), and never externally (such as WhatsApp or direct email), unless a prior expectation has been agreed, or for safety reasons (such as if you are uncontactable on Heylo). You may opt-out by leaving the relevant group chats or leaving the community.
 
 We will never share your personal information with any third-parties unless with explicit direct permission from you, for example for the purpose of externally organised event registration where ESEA Outdoors UK has been invited to participate and you have agreed to register.
 
