@@ -62,7 +62,9 @@ Notably, each member is responsible for their own actions and decisions while at
 
 ## Health & Safety Policy
 
+TBC...
 
+[Download a copy of our risk assessment template here](https://drive.google.com/drive/folders/1XdPIhxjq3IGRn9L1kSC7oQpUcOwCs11R?usp=sharing).
 
 ## Social media policy
 
