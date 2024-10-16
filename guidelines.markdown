@@ -15,7 +15,8 @@ By joining the ESEA Outdoors UK community, you accept and abide by our following
 2. [Safer Spaces Policy](#our-safer-spaces-policy)
 3. [Event Participation Statement](#event-participation-statement)
 4. [Social Media Policy](#social-media-policy)
-5. [Privacy Policy](#privacy-policy)
+5. [Health & Safety Policy](#health--safety-policy)
+6. [Privacy Policy](#privacy-policy)
 
 💛 Any questions and comments get in touch with the ESEA Outdoors admins [via email or Instagram](https://eseaoutdoorsuk.carrd.co).
 
@@ -58,6 +59,10 @@ We abide by the following policy within our spaces or those we associate ourselv
 _Adapted from the BMC Participation Statement_
 
 Notably, each member is responsible for their own actions and decisions while at an event, and to judge their own level of ability, experience, health and kit, and to take appropriate steps in safeguarding themselves. No member or leader is responsible for any other member, regardless of experience or seniority.
+
+## Health & Safety Policy
+
+
 
 ## Social media policy
 
