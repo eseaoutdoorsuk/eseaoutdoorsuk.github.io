@@ -93,7 +93,7 @@ In case of injury or illness, the walk leader will assess the situation and call
 
 Event Organiser Responsibilities:
 
-- Perform a risk assessment ((https://drive.google.com/drive/folders/1XdPIhxjq3IGRn9L1kSC7oQpUcOwCs11R?usp=sharing)) before the event and develop a set of control measures to mitigate those risks, including but not limited to risks involving COVID-19, crowd control, walking and moving hazards, weather conditions, welfare, natural hazards, animals and dogs, and communications. See (https://drive.google.com/drive/folders/1XdPIhxjq3IGRn9L1kSC7oQpUcOwCs11R?usp=sharing).
+- Perform a risk assessment (see [template](https://drive.google.com/drive/folders/1XdPIhxjq3IGRn9L1kSC7oQpUcOwCs11R?usp=sharing)) before the event and develop a set of control measures to mitigate those risks, including but not limited to risks involving COVID-19, crowd control, walking and moving hazards, weather conditions, welfare, natural hazards, animals and dogs, and communications. See [risk assessment template for a full list](https://drive.google.com/drive/folders/1XdPIhxjq3IGRn9L1kSC7oQpUcOwCs11R?usp=sharing).
 - Action the control measures developed in the risk assessment during the event.
 - Conduct a brief safety briefing before each walk.
 - Carry a first aid kit and be familiar with basic first aid.
