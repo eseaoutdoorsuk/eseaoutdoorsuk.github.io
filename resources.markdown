@@ -55,9 +55,9 @@ Foundations on equity of access to the outdoors in the UK. Work that has inspire
 ### What can you do?
 
 - Learn: read, reflect on and share the resources listed on this page.
-- Connect and listen to leaders in our community. Check out [_All The Elements | Directory_](https://www.alltheelements.co/directory).
-- Reflect on your privilege. [James de Mierre, _"Accessibility and Privilege in the Environmental Sector"_, Green Jobs for Nature, Jul 2024](https://greenjobsfornature.org/news-blog/accessibility-and-privilege-in-the-environmental-sector/).
 - Learn: writing and media. [Mary-Ann Ochota, _"Writing inclusion into the outdoors"_, Sep 2024](https://owpg.substack.com/p/writing-inclusion-into-the-outdoors).
+- Reflect on your privilege as an individual and as an organisation. [James de Mierre, _"Accessibility and Privilege in the Environmental Sector"_, Green Jobs for Nature, Jul 2024](https://greenjobsfornature.org/news-blog/accessibility-and-privilege-in-the-environmental-sector/).
+- Connect listen to, support and fund leaders in our community. Check out [_All The Elements | Directory_](https://www.alltheelements.co/directory) and other friends: [YHA Outdoors Citizens](https://www.yha.org.uk/outdoor-citizens), [Lake District Foundation](https://www.lakedistrictfoundation.org/partnership-dashboard/a-lake-district-for-everyone/).
 
   
 
