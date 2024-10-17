@@ -67,13 +67,13 @@ The purpose of this policy is to protect the safety and wellbeing of all members
 
   
 
-#### **Recording**
+**Recording**
 
 Details of all accidents and near-misses are recorded within 24 hours of an incident and are available on request, so that lessons can be learned and future risks prevented.
 
   
 
-#### **Insurance**
+**Insurance**
 
 ESEA Outdoors UK maintains public liability insurance to protect against third-party claims. This coverage extends to official ESEA Outdoors UK activities and events including walking, hillwalking, running and camping, but not climbing (note for indoor climbing gyms may have their own insurance). Members are advised that this insurance does not cover personal injury or loss of personal property. Walk leaders and other volunteers are covered under our volunteer liability insurance. This insurance protects volunteers from personal financial loss due to claims arising from their volunteer duties. Volunteers must adhere to our policies and guidelines to maintain coverage.
 
@@ -83,13 +83,13 @@ It is important to note that while these insurance policies provide protection f
 
   
 
-#### Emergency procedures
+**Emergency procedures**
 
 In case of injury or illness, the walk leader will assess the situation and call for emergency services if necessary. All incidents must be reported and documented as detailed above.
 
   
 
-#### Responsibilities
+**Responsibilities**
 
 Event Organiser Responsibilities:
 
