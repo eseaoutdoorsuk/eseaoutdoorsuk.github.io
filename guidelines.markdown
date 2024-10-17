@@ -62,9 +62,50 @@ Notably, each member is responsible for their own actions and decisions while at
 
 ## Health & Safety Policy
 
-TBC...
 
-[Download a copy of our risk assessment template here](https://drive.google.com/drive/folders/1XdPIhxjq3IGRn9L1kSC7oQpUcOwCs11R?usp=sharing).
+The purpose of this policy is to protect the safety and wellbeing of all members during ESEA Outdoors UK activities. Responsibility for implementation and review of the policy lies with the ESEA Outdoors UK admins and is undertaken on a 12 month basis.
+
+  
+
+#### **Recording**
+
+Details of all accidents and near-misses are recorded within 24 hours of an incident and are available on request, so that lessons can be learned and future risks prevented.
+
+  
+
+#### **Insurance**
+
+ESEA Outdoors UK maintains public liability insurance to protect against third-party claims. This coverage extends to official ESEA Outdoors UK activities and events including walking, hillwalking, running and camping, but not climbing (note for indoor climbing gyms may have their own insurance). Members are advised that this insurance does not cover personal injury or loss of personal property. Walk leaders and other volunteers are covered under our volunteer liability insurance. This insurance protects volunteers from personal financial loss due to claims arising from their volunteer duties. Volunteers must adhere to our policies and guidelines to maintain coverage.
+
+  
+
+It is important to note that while these insurance policies provide protection for ESEA Outdoors UK and its volunteers, members are encouraged to consider their own personal insurance needs, such as health and travel insurance, when participating in our activities. Members making ad-hoc arrangements between themselves to undertake a walk will not be covered by the group’s insurance.
+
+  
+
+#### Emergency procedures
+
+In case of injury or illness, the walk leader will assess the situation and call for emergency services if necessary. All incidents must be reported and documented as detailed above.
+
+  
+
+#### Responsibilities
+
+Event Organiser Responsibilities:
+
+- Perform a risk assessment ((https://drive.google.com/drive/folders/1XdPIhxjq3IGRn9L1kSC7oQpUcOwCs11R?usp=sharing)) before the event and develop a set of control measures to mitigate those risks, including but not limited to risks involving COVID-19, crowd control, walking and moving hazards, weather conditions, welfare, natural hazards, animals and dogs, and communications. See (https://drive.google.com/drive/folders/1XdPIhxjq3IGRn9L1kSC7oQpUcOwCs11R?usp=sharing).
+- Action the control measures developed in the risk assessment during the event.
+- Conduct a brief safety briefing before each walk.
+- Carry a first aid kit and be familiar with basic first aid.
+- Have emergency contact information for all participants.
+
+Event Participant Responsibilities:
+
+- Inform event leaders of any medical conditions or injuries that may be appropriate to the event
+- Read, understand and accept the ESEA Outdoors UK guidelines and policies as listed on this page, in particular with being responsible for judging your own ability as detailed in the [Event Participation Statement](#event-participation-statement).
+- Comply with the risk assessment by following instructions given by event leaders.
+- In the absence of additional instruction, participants are solely responsible for **ensuring that they have the necessary equipment, clothing, food and drink on events**, as detailed in the [Event Participation Statement](#event-participation-statement).
+
 
 ## Social media policy
 
