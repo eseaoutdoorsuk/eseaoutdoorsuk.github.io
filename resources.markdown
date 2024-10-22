@@ -42,11 +42,11 @@ Foundations on equity of access to the outdoors in the UK. Work that has inspire
 
 ### What can you do?
 
-- Learn: read, reflect on and share the resources listed on this page.
-- Learn: writing and media. [Mary-Ann Ochota, _"Writing inclusion into the outdoors"_, Sep 2024](https://owpg.substack.com/p/writing-inclusion-into-the-outdoors).
-- Reflect on your privilege as an individual and as an organisation. [James de Mierre, _"Accessibility and Privilege in the Environmental Sector"_, Green Jobs for Nature, Jul 2024](https://greenjobsfornature.org/news-blog/accessibility-and-privilege-in-the-environmental-sector/).
-- Connect listen to, support and fund leaders in our community. Check out [_All The Elements | Directory_](https://www.alltheelements.co/directory) and other friends: [YHA Outdoors Citizens](https://www.yha.org.uk/outdoor-citizens), [Lake District Foundation](https://www.lakedistrictfoundation.org/partnership-dashboard/a-lake-district-for-everyone/).
-
+- _Learn_: educate yourself by reading and sharing the resources listed on this page, and reflect on your allyship as an individual, institution or club.
+- _Learn_: inclusive writing and media. [Mary-Ann Ochota, _"Writing inclusion into the outdoors"_, Sep 2024](https://owpg.substack.com/p/writing-inclusion-into-the-outdoors).
+- _Reflect_ on your privilege as an individual and as an organisation. [James de Mierre, _"Accessibility and Privilege in the Environmental Sector"_, Green Jobs for Nature, Jul 2024](https://greenjobsfornature.org/news-blog/accessibility-and-privilege-in-the-environmental-sector/).
+- _Connect_: listen to, support and fund leaders in our community. Check out [_All The Elements | Directory_](https://www.alltheelements.co/directory) and other friends: [YHA Outdoors Citizens](https://www.yha.org.uk/outdoor-citizens), [Lake District Foundation](https://www.lakedistrictfoundation.org/partnership-dashboard/a-lake-district-for-everyone/).
+- _Act_: Call out racism and be an ally. [Racism Unmasked, _"Combating ESEA racism: how to be an active bystander"_, Mar 2021](https://racismunmaskededin.wixsite.com/website/post/combating-esea-racism-how-to-be-an-active-bystander).
   
 
 ### Brief explainers about ESEA issues
@@ -56,8 +56,6 @@ ESEA (pronounced "E-C") stands for East & Southeast Asian.
 - ESEA invisibility and erasure. [Mai-Anh Peterson, _"What’s in a name?"_, besea.n, Sep 2020](https://www.besean.co.uk/spotlight/whats-in-a-name).
 - ESEA racism and representation. [besea.n, _"Ethnic Disparities and Inequality in the UK among ESEA communities"_, Jan 2021](https://www.besean.co.uk/resources-posts/inequalities-report).
 - ESEA joy. [besea.n, _"But where are you from?"_, Apple](https://podcasts.apple.com/gb/podcast/but-where-are-you-from/id1504169493)/[Spotify](https://open.spotify.com/show/71r4oAbdEH1B7g51ckOwnt?si=250pVhsKSvSNkz_-hGuN2w&nd=1&dlsi=00391503bf4b4632).
-- ESEA allyship. [Racism Unmasked, _"Combating ESEA racism: how to be an active bystander"_, Mar 2021](https://racismunmaskededin.wixsite.com/website/post/combating-esea-racism-how-to-be-an-active-bystander).
-
   
 
 ### Other inspirations 💛
