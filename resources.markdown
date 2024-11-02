@@ -30,6 +30,9 @@ Foundations on equity of access to the outdoors in the UK. Work that has inspire
 - Systemic issues. [Jasmine Isa Qureshi, _"What is the conservation industry doing to address its lack of diversity?"_, Discover Wildlife, Apr 2022](https://www.discoverwildlife.com/people/what-is-the-conservation-industry-doing-to-address-its-lack-of-diversity).
 - Transport and experience. [Ingrina Shieh, _"Transport troubles, limited freedom to roam and knowing where to go: the many barriers to accessing Great British walking"_, Slow Ways, Aug 2023](https://buildstories.slowways.org/transport-troubles-limited-freedom-to-roam-and-knowing-where-to-go-the-many-barriers-to-accessing-great-british-walking/).
   
+<details><summary>Summary: a multifaceted equity of access</summary>
+<img src="/assets/img/multifacetedness.png" alt="A multifaceted equity of access" style="width:100%;">
+</details>
 
 ### Why do we need equity of access?
 
