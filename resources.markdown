@@ -24,10 +24,10 @@ Foundations on equity of access to the outdoors in the UK. Work that has inspire
 - Access and othering. [Anita Kerwin-Nye, _"Why I am no longer talking about behaviour"_, Substack, Aug 2023](https://anitakerwinnye.substack.com/p/why-i-am-no-longer-talking-about).
 - Sport underrepresentation. [Phil Young, _"Skin deep: why the outdoors has a race problem and how it can be fixed"_, Mpora, Apr 2020](https://mpora.com/multi-sport/does-the-outdoors-have-a-race-problem).
 - People of colour and barriers. [CPRE, _"Access to nature in the English countryside"_, Aug 2021](https://www.cpre.org.uk/resources/2021-research-overview-access-to-nature-in-the-english-countryside/).
-- Paths and inequity. [Ramblers & NEF, _"Who has a public right of way?"_, Nov. 2022](https://www.ramblers.org.uk/who-has-access-our-paths).
+- Paths and inequity. [Ramblers & NEF, _"Who has a public right of way?"_, Nov 2022](https://www.ramblers.org.uk/who-has-access-our-paths).
 - A history of land access. [Eben Myrddin Muse, _"Right to Roam - an idea whose time has come"_, Feb 2024](https://www.ukclimbing.com/articles/opinions/right_to_roam_-_an_idea_whose_time_has_come-15632).
 - Systemic issues. [Jasmine Isa Qureshi, _"What is the conservation industry doing to address its lack of diversity?"_, Discover Wildlife, Apr 2022](https://www.discoverwildlife.com/people/what-is-the-conservation-industry-doing-to-address-its-lack-of-diversity).
-
+- Transport and experience. [Ingrina Shieh, _"Transport troubles, limited freedom to roam and knowing where to go: the many barriers to accessing Great British walking"_, Slow Ways, Aug 2023](https://buildstories.slowways.org/transport-troubles-limited-freedom-to-roam-and-knowing-where-to-go-the-many-barriers-to-accessing-great-british-walking/).
   
 
 ### Why do we need equity of access?
@@ -37,7 +37,7 @@ Foundations on equity of access to the outdoors in the UK. Work that has inspire
 - Nature connection and equity of access. [Wang, _"Access to nature - but for whom?"_, Oct 2024](https://andrewwango.github.io/access-for-whom/).
 - Belonging and fell-running. [Charmaine Sew, "SCARPA Great Lakeland 3 Day", Substack, Jul 2024](https://quotidianresistance.substack.com/p/scarpa-great-lakeland-3day).
 - Diversity in the environment sector. [SOS-UK, _"The RACE Report"_, Feb 2024](https://www.race-report.uk/)
-
+- Privilege and National Parks. [Eben Myrddin Muse, _"Commodification of the countryside"_, Campaign for National Parks Viewpoint mag, Oct 2024](https://www.cnp.org.uk/blog/commodification-of-the-countryside/).
   
 
 ### What can you do?
@@ -45,7 +45,7 @@ Foundations on equity of access to the outdoors in the UK. Work that has inspire
 - _Learn_: educate yourself by reading and sharing the resources listed on this page, and reflect on your allyship as an individual, institution or club.
 - _Learn_: inclusive writing and media. [Mary-Ann Ochota, _"Writing inclusion into the outdoors"_, Sep 2024](https://owpg.substack.com/p/writing-inclusion-into-the-outdoors).
 - _Reflect_ on your privilege as an individual and as an organisation. [James de Mierre, _"Accessibility and Privilege in the Environmental Sector"_, Green Jobs for Nature, Jul 2024](https://greenjobsfornature.org/news-blog/accessibility-and-privilege-in-the-environmental-sector/).
-- _Connect_: listen to, support and fund leaders in our community. Check out [_All The Elements | Directory_](https://www.alltheelements.co/directory) and other friends: [YHA Outdoors Citizens](https://www.yha.org.uk/outdoor-citizens), [Lake District Foundation](https://www.lakedistrictfoundation.org/partnership-dashboard/a-lake-district-for-everyone/).
+- _Connect_: listen to, support and fund leaders in our community. Check out [_All The Elements directory_](https://www.alltheelements.co/directory) and other friends: [YHA Outdoors Citizens](https://www.yha.org.uk/outdoor-citizens), [Lake District Foundation](https://www.lakedistrictfoundation.org/partnership-dashboard/a-lake-district-for-everyone/).
 - _Act_: Call out racism and be an ally. [Racism Unmasked, _"Combating ESEA racism: how to be an active bystander"_, Mar 2021](https://racismunmaskededin.wixsite.com/website/post/combating-esea-racism-how-to-be-an-active-bystander).
   
 
