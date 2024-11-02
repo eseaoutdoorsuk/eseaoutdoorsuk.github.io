@@ -24,6 +24,7 @@ Foundations on equity of access to the outdoors in the UK. Work that has inspire
 - Access and othering. [Anita Kerwin-Nye, _"Why I am no longer talking about behaviour"_, Substack, Aug 2023](https://anitakerwinnye.substack.com/p/why-i-am-no-longer-talking-about).
 - Sport underrepresentation. [Phil Young, _"Skin deep: why the outdoors has a race problem and how it can be fixed"_, Mpora, Apr 2020](https://mpora.com/multi-sport/does-the-outdoors-have-a-race-problem).
 - People of colour and barriers. [CPRE, _"Access to nature in the English countryside"_, Aug 2021](https://www.cpre.org.uk/resources/2021-research-overview-access-to-nature-in-the-english-countryside/).
+- Safe spaces and walking. [Black Girls Hike & Steppers UK, _"How two walking groups have led the way when it comes to diversifying the outdoors"_, Mpora, Jan 2021](https://mpora.com/hiking-and-trail-running/black-girls-hike-steppers-uk-diversifying-the-outdoors/).
 - Paths and inequity. [Ramblers & NEF, _"Who has a public right of way?"_, Nov 2022](https://www.ramblers.org.uk/who-has-access-our-paths).
 - A history of land access. [Eben Myrddin Muse, _"Right to Roam - an idea whose time has come"_, Feb 2024](https://www.ukclimbing.com/articles/opinions/right_to_roam_-_an_idea_whose_time_has_come-15632).
 - Systemic issues. [Jasmine Isa Qureshi, _"What is the conservation industry doing to address its lack of diversity?"_, Discover Wildlife, Apr 2022](https://www.discoverwildlife.com/people/what-is-the-conservation-industry-doing-to-address-its-lack-of-diversity).
@@ -45,7 +46,16 @@ Foundations on equity of access to the outdoors in the UK. Work that has inspire
 - _Learn_: educate yourself by reading and sharing the resources listed on this page, and reflect on your allyship as an individual, institution or club.
 - _Learn_: inclusive writing and media. [Mary-Ann Ochota, _"Writing inclusion into the outdoors"_, Sep 2024](https://owpg.substack.com/p/writing-inclusion-into-the-outdoors).
 - _Reflect_ on your privilege as an individual and as an organisation. [James de Mierre, _"Accessibility and Privilege in the Environmental Sector"_, Green Jobs for Nature, Jul 2024](https://greenjobsfornature.org/news-blog/accessibility-and-privilege-in-the-environmental-sector/).
-- _Connect_: listen to, support and fund leaders in our community. Check out [_All The Elements directory_](https://www.alltheelements.co/directory) and other friends: [YHA Outdoors Citizens](https://www.yha.org.uk/outdoor-citizens), [Lake District Foundation](https://www.lakedistrictfoundation.org/partnership-dashboard/a-lake-district-for-everyone/).
+- _Connect_: listen to, support and fund leaders in our community. Check out [_All The Elements directory_](https://www.alltheelements.co/directory) and other friends:
+    - [YHA Outdoors Citizens](https://www.yha.org.uk/outdoor-citizens).
+    - [Lake District Foundation](https://www.lakedistrictfoundation.org/partnership-dashboard/a-lake-district-for-everyone/).
+    - [Every Body Outdoors](https://www.everybodyoutdoors.co.uk/).
+    - [ClimbMuz](https://climbmuz.co.uk/).
+    - [Black Trail Runners](https://www.blacktrailrunners.run/).
+    - [Steppers UK](https://www.instagram.com/steppers_uk).
+    - [Opening Up The Outdoors](https://openinguptheoutdoors.com/).
+    - [Roots of Belonging](https://www.rootsofbelonging.org/).
+
 - _Act_: Call out racism and be an ally. [Racism Unmasked, _"Combating ESEA racism: how to be an active bystander"_, Mar 2021](https://racismunmaskededin.wixsite.com/website/post/combating-esea-racism-how-to-be-an-active-bystander).
   
 
