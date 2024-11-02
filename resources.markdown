@@ -29,6 +29,7 @@ Foundations on equity of access to the outdoors in the UK. Work that has inspire
 - A history of land access. [Eben Myrddin Muse, _"Right to Roam - an idea whose time has come"_, Feb 2024](https://www.ukclimbing.com/articles/opinions/right_to_roam_-_an_idea_whose_time_has_come-15632).
 - Systemic issues. [Jasmine Isa Qureshi, _"What is the conservation industry doing to address its lack of diversity?"_, Discover Wildlife, Apr 2022](https://www.discoverwildlife.com/people/what-is-the-conservation-industry-doing-to-address-its-lack-of-diversity).
 - Transport and experience. [Ingrina Shieh, _"Transport troubles, limited freedom to roam and knowing where to go: the many barriers to accessing Great British walking"_, Slow Ways, Aug 2023](https://buildstories.slowways.org/transport-troubles-limited-freedom-to-roam-and-knowing-where-to-go-the-many-barriers-to-accessing-great-british-walking/).
+- Leadership in mountaineering. [_"Trailblazer hopes to become first black female winter mountain leader in the UK"_, The Standard, Sept 2023](https://www.standard.co.uk/news/uk/air-cadets-edinburgh-scotland-greater-london-havering-b1106643.html).
   
 <details><summary>Summary: a multifaceted equity of access</summary>
 <img src="/assets/img/multifacetedness.png" alt="A multifaceted equity of access" style="width:100%;">
