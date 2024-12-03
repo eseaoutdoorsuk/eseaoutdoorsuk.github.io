@@ -39,11 +39,11 @@ Foundations on equity of access to the outdoors in the UK. Work that has inspire
 
 - Access and outdoor sports. [Wang, _"Diversity in the Mountains at GL3D"_, BMC Summit Mag, Jun 2024](https://eseaoutdoorsuk.github.io/2024-bmc-summit/).
 - Nature connection and equity of access. [Nadia Shaikh, _"Unpicking misanthropic nature conservation"_, TGO, Apr 2024](https://www.thegreatoutdoorsmag.com/news/creator-of-the-month-nadia-shaikh/).
-- Nature connection and equity of access. [Wang, _"Access to nature - but for whom?"_, Oct 2024](https://andrewwango.github.io/access-for-whom/).
+- Nature connection and equity of access. [Wang, _"Access to nature - but for whom?"_, Substack, Oct 2024](https://eseaoutdoorsuk.substack.com/p/access-to-nature).
 - Belonging and fell-running. [Charmaine Sew, "SCARPA Great Lakeland 3 Day", Substack, Jul 2024](https://quotidianresistance.substack.com/p/scarpa-great-lakeland-3day).
 - Diversity in the environment sector. [SOS-UK, _"The RACE Report"_, Feb 2024](https://www.race-report.uk/)
 - Privilege and National Parks. [Eben Myrddin Muse, _"Commodification of the countryside"_, Campaign for National Parks Viewpoint mag, Oct 2024](https://www.cnp.org.uk/blog/commodification-of-the-countryside/).
-  
+- Inclusivity-washing. [Wang, _"Against inclusivity-washing in the outdoors"_, Substack, Dec 2024](https://eseaoutdoorsuk.substack.com/p/against-inclusivity-washing).
 
 ### What can you do?
 
