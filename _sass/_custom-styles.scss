@@ -19,3 +19,44 @@ h2, h3, h4, h5, h6 {
 p {
     margin-bottom: 20px;
   }
+
+
+
+.hero {
+  background: #004d40;
+  color: white;
+  padding: 3rem 1rem;
+  text-align: center;
+}
+.hero-logo {
+  max-width: 100px;
+  margin-bottom: 1rem;
+}
+.hero-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+.hero-description {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+.hero-buttons a {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.btn-primary {
+  background-color: #ffcc00;
+  color: black;
+}
+.btn-secondary {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+.btn-highlight {
+  background-color: #ff5722;
+  color: white;
+}
