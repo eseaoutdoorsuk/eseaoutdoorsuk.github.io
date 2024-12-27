@@ -4,7 +4,7 @@
 
 layout: home
 #redirect_to:
-#  - https://eseaoutdoorsuk.carrd.co/
+#  - /
 ---
 
 Test

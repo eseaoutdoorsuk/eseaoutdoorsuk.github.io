@@ -18,7 +18,7 @@ By joining the ESEA Outdoors UK community, you accept and abide by our following
 5. [Health & Safety Policy](#health--safety-policy)
 6. [Privacy Policy](#privacy-policy)
 
-💛 Any questions and comments get in touch with the ESEA Outdoors admins [via email or Instagram](https://eseaoutdoorsuk.carrd.co).
+💛 Any questions and comments get in touch with the ESEA Outdoors admins [via email or Instagram](https://eseaoutdoors.uk).
 
 ## Our Principles
 
@@ -137,4 +137,4 @@ All communications from us to you will be via Heylo (via group chat, DM, push no
 
 We will never share your personal information with any third-parties unless with explicit direct permission from you, for example for the purpose of externally organised event registration where ESEA Outdoors UK has been invited to participate and you have agreed to register.
 
-💛 Any questions and comments, or if you are unhappy with how your data is being used, get in touch with the ESEA Outdoors admins [via email or Instagram](https://eseaoutdoorsuk.carrd.co).
+💛 Any questions and comments, or if you are unhappy with how your data is being used, get in touch with the ESEA Outdoors admins [via email or Instagram](https://eseaoutdoors.uk).

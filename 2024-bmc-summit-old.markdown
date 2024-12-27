@@ -13,7 +13,7 @@ permalink: /2024-bmc-summit/
 
 ---
 
-_The outdoors is changing, and this running and hiking event is at the forefront of championing diversity in the sport. **Andrew Wang**, founder of [ESEA Outdoors UK](https://eseaoutdoorsuk.carrd.co/), shares his story_
+_The outdoors is changing, and this running and hiking event is at the forefront of championing diversity in the sport. **Andrew Wang**, founder of [ESEA Outdoors UK](https://eseaoutdoors.uk/), shares his story_
 
 <img src="/assets/img/summit-1.jpg" alt="GL3D Image 1" style="width:100%;">
 
@@ -23,7 +23,7 @@ Legs heavy from a second 20 mile day navigating over the Buttermere fells, I sat
 
 <img src="/assets/img/summit-2.jpg" alt="GL3D Image 2" style="width:100%;">
 
-[**ESEA Outdoors UK**](https://eseaoutdoorsuk.carrd.co/) is a grassroots community for outdoors enthusiasts united by a feeling of isolation in a space where our faces aren't traditionally seen. It was via a mutual friend, [Mary-Ann Ochota](https://www.maryannochota.com/) (the [BMC's hillwalking](https://hillwalking.thebmc.co.uk/) ambassador), that led Ourea Events to invite us to GL3D, an adventurous but friendly navigation challenge run by an amazing and supportive team. Despite walking and running in the hills my whole life, I'd never run a multi-day race before. Participating as a community, seeing fifteen friendly Asian faces in a sea of white, was transformative. Shane Ohly, CEO of [Ourea Events](https://www.oureaevents.com/), prefaced my talk, saying, "Many of the ESEA Outdoors folk were already experienced outdoor people, but we identified that the most significant barrier to attending was the perception that ethnic minorities might not be welcome, so we took tangible actions and made a deliberate effort to remove those barriers".
+[**ESEA Outdoors UK**](https://eseaoutdoors.uk/) is a grassroots community for outdoors enthusiasts united by a feeling of isolation in a space where our faces aren't traditionally seen. It was via a mutual friend, [Mary-Ann Ochota](https://www.maryannochota.com/) (the [BMC's hillwalking](https://hillwalking.thebmc.co.uk/) ambassador), that led Ourea Events to invite us to GL3D, an adventurous but friendly navigation challenge run by an amazing and supportive team. Despite walking and running in the hills my whole life, I'd never run a multi-day race before. Participating as a community, seeing fifteen friendly Asian faces in a sea of white, was transformative. Shane Ohly, CEO of [Ourea Events](https://www.oureaevents.com/), prefaced my talk, saying, "Many of the ESEA Outdoors folk were already experienced outdoor people, but we identified that the most significant barrier to attending was the perception that ethnic minorities might not be welcome, so we took tangible actions and made a deliberate effort to remove those barriers".
 
 
 ### Tackling racism and underrepresentation

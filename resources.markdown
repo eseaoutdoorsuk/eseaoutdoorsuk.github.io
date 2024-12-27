@@ -9,7 +9,7 @@ permalink: /resources/
 
 Foundations on equity of access to the outdoors in the UK. Work that has inspired us, written by our friends, colleagues and community members. An ESEA Outdoors manifesto.
 
-[About ESEA Outdoors](https://eseaoutdoorsuk.carrd.co/ "https://eseaoutdoorsuk.carrd.co/") \| [Instagram](https://www.instagram.com/eseaoutdoorsuk/ "https://www.instagram.com/eseaoutdoorsuk/") \| [Substack](https://eseaoutdoorsuk.substack.com/)
+[About ESEA Outdoors](https://eseaoutdoors.uk/) \| [Instagram](https://www.instagram.com/eseaoutdoorsuk/) \| [Substack](https://eseaoutdoorsuk.substack.com/)
 
 Contents
 

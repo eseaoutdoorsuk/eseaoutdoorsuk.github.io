@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 bootstrap:
   social_links:
     instagram: 'https://instagram.com/eseaoutdoorsuk'
+    email: 'eseaoutdoorsuk@gmail.com'
 
 # Build settings
 plugins:

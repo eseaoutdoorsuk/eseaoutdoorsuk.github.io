@@ -1,0 +1,6 @@
+{%- assign social = site.bootstrap.social_links -%}
+
+<ul class="text-center list-inline">
+  {%- if social.instagram -%}<li class="list-inline-item"><a rel="me" class="link-secondary" href="{{ social.instagram }}"><i class="bi bi-instagram"role="img" aria-label="Instagram"></i></a></li>{%- endif -%}
+  {%- if social.email -%}<li class="list-inline-item"><a rel="me" class="link-secondary" href="mailto:{{ social.email }}"><i class="bi bi-envelope"role="img" aria-label="Email"></i></a></li>{%- endif -%}
+</ul>
