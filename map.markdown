@@ -2,6 +2,6 @@
 layout: page
 title: Map
 redirect_to:
-  - https://eseaoutdoorsuk.github.io/map
+  - https://eseaoutdoors.uk/map
 permalink: /map-redirect/
 ---

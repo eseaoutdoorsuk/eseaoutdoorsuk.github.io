@@ -131,7 +131,7 @@ Occasionally, before or during events, we will collect emergency contact informa
 
 ESEA Outdoors UK takes your privacy seriously. We will only use your personal information to administer your account. In our Heylo community, your personal information is also subject to [Heylo's privacy policy](https://www.heylo.com/privacy) which you are asked to accept upon joining. Learn more about [Heylo's privacy options here](https://howitworks.heylo.com/help/group-privacy-and-data).
 
-If provided, your provided location text is used, without other details, to populate our publicly-visible [anonymous community map](https://eseaoutdoorsuk.github.io/map).
+If provided, your provided location text is used, without other details, to populate our publicly-visible [anonymous community map](https://eseaoutdoors.uk/map).
 
 All communications from us to you will be via Heylo (via group chat, DM, push notification or email announcement), and never externally (such as WhatsApp or direct email), unless a prior expectation has been agreed, or for safety reasons (such as if you are uncontactable on Heylo). You may opt-out by leaving the relevant group chats or leaving the community.
 
