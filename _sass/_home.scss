@@ -1,11 +1,15 @@
-.background-layout {
+
+
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
     background-image: url('/assets/img/bg.jpg');
-    background-size: cover; /* Adjust to make it cover the whole area */
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    min-height: 100vh; /* Ensure it covers the entire viewport */
-  }
+    z-index: -1;
+}
 
 /* CONTENT */
 .hero {

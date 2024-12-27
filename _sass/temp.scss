@@ -1,0 +1,8 @@
+.background-layout {
+    background-image: url('/assets/img/bg.jpg');
+    background-size: cover; /* Adjust to make it cover the whole area */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh; /* Ensure it covers the entire viewport */
+  }
