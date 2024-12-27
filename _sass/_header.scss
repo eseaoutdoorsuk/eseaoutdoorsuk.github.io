@@ -1,0 +1,15 @@
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+
+.nav-link {
+    color: black !important;
+}
+body {
+    padding-top: 56px; /* Matches the navbar height */
+}
+
+.custom-header-bg {
+    background-color: #EDE7D9 !important;
+}
