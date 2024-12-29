@@ -19,13 +19,12 @@ html {
 .narrow-container {
     max-width: 650px;
     margin: 0 auto;
-    /*box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);*/
-    overflow: hidden; /* Ensures rounded corners clip child elements */
+    overflow: hidden;
 }
 
 .hero {
     color: white;
-    padding: 1.5rem 4rem; /* tb-lr or t-r-b-l */
+    padding: 1.5rem 4rem; // tb-lr or t-r-b-l
     text-align: left;
 }
 .hero-title {
@@ -94,9 +93,9 @@ html {
   margin: 0.5rem 0em;
   padding: 0.75rem 1.2rem;
   border-radius: 40px;
-  text-overflow: ellipsis; /* Adds ellipsis */
-  overflow: hidden; /* Ensures the content is hidden if it overflows */
-  white-space: nowrap; /* Prevents the text from wrapping */
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
 }
 .hero-buttons-block a {
     display: block;
@@ -106,8 +105,8 @@ html {
   color: white;
   border: 0;
   font-weight: bold;
-  max-width: 100%; /* Ensure it doesn't overflow container */
-  box-sizing: border-box; /* Keeps padding included in the width calculation */
+  max-width: 100%;
+  box-sizing: border-box;
 }
 .btn-primary:hover{
   background-color: #FFFFFF42;
@@ -120,9 +119,9 @@ html {
 .gallery {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem; /* Space between images */
+    gap: 0.5rem;
     justify-content: center;
-    align-items: center; /* Centers images vertically */
+    align-items: center;
     padding: 1rem 0;
 }
 .gallery a {
@@ -131,12 +130,12 @@ html {
     transition: transform 0.3s ease;
 }
 .gallery a:hover {
-    transform: scale(1.05); /* Optional: Zoom effect on hover */
+    transform: scale(1.05);
 }
 .gallery img {
-    width: 100px; /* Adjust to fit your layout */
-    height: auto; /* Maintain aspect ratio */
-    object-fit: contain; /* Ensure the logo fits well inside its box */
+    width: 100px;
+    height: auto;
+    object-fit: contain;
     display: block;
 }
 
