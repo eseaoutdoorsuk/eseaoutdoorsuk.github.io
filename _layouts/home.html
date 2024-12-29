@@ -9,13 +9,7 @@ layout: default
   <p class="hero-description">
     We're connecting East & Southeast Asian outdoor enthusiasts across the UK and celebrating representation.
   </p>
-</section>
-
-<section class="hero hero-transparent">
-</section>
-
-<section class="hero hero-light br-top">
-  <div class="hero-buttons mt-4">
+  <div class="hero-buttons">
     <a href="https://instagram.com/eseaoutdoorsuk" class="btn btn-primary btn-icon" target="_blank">
       <i class="bi bi-instagram fs-5"></i>
     </a>
@@ -23,6 +17,14 @@ layout: default
       <i class="bi bi-envelope fs-5"></i>
     </a>
   </div>
+</section>
+
+<div class="scroller" id="scroller"></div>
+
+<section class="hero hero-transparent">
+</section>
+
+<section class="hero hero-light br-top">
   <div class="hero-buttons hero-buttons-block">
     <a href="/#signup" class="btn btn-primary">💛 Join the community...</a>
     <a href="/resources" class="btn btn-primary">📚 Resources</a>
@@ -136,3 +138,10 @@ layout: default
 </section>
 
 </div>
+
+<script>
+  const speed = 300;
+  window.addEventListener('scroll', () => {
+    document.getElementById('scroller').style.opacity = Math.max(0, 1 - window.scrollY / speed)
+  })
+</script>
