@@ -33,7 +33,8 @@ Contents
 - Transport and experience. [Ingrina Shieh, _"Transport troubles, limited freedom to roam and knowing where to go: the many barriers to accessing Great British walking"_, Slow Ways, Aug 2023](https://buildstories.slowways.org/transport-troubles-limited-freedom-to-roam-and-knowing-where-to-go-the-many-barriers-to-accessing-great-british-walking/).
 - Leadership in mountaineering. [_"Trailblazer hopes to become first black female winter mountain leader in the UK"_, The Standard, Sept 2023](https://www.standard.co.uk/news/uk/air-cadets-edinburgh-scotland-greater-london-havering-b1106643.html).
 - Clothing and safety. [Steph Wetherell, _"How Technical Outdoor Gear Changed my Experience of the Outdoors"_, Alpkit blog, Dec 2023](https://alpkit.com/blogs/deeds/how-technical-outdoor-gear-changed-my-experience-of-the-outdoors).
-- Neurodiversity in adventure. [Allie Mason, _"Neurodiversity and Adventure - Insights from Timber Festival 2024, All The Elements blog"_, Oct 2024](https://www.alltheelements.co/news/neurodiversity-in-adventure).
+- Neurodiversity in adventure. [Allie Mason, _"Neurodiversity and Adventure - Insights from Timber Festival 2024"_, All The Elements blog, Oct 2024](https://www.alltheelements.co/news/neurodiversity-in-adventure).
+- Gender identity and policing women. [Matthew B, _"The Real Problem with Exclusion in Sports"_, Substack, Jan 2025](https://mattbsometimeswrites.substack.com/p/the-real-problem-with-exclusion-in-sports).
 
 <details><summary>Summary: a multifaceted equity of access</summary>
 <img src="/assets/img/multifacetedness.png" alt="A multifaceted equity of access" style="width:100%;">
