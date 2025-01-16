@@ -18,6 +18,9 @@ Contents
 3. [What can you do?](#what-can-you-do)
 4. [ESEA explainers](#brief-explainers-about-esea-issues)
 5. [Other inspirational articles](#other-inspirations-)
+6. [Community-authored articles](#community-authored-articles)
+7. [Press](#press)
+8. [Speaking](#speaking)
 
 ### What is the multifacetedness of access?
 
