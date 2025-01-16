@@ -84,6 +84,21 @@ ESEA (pronounced "E-C") stands for East & Southeast Asian.
 - Paths and data. [Wang, _"Mapping lost rights of way"_, Aug 2022](https://andrewwango.github.io/prow-map-about/).
 - Diversity and community. [Miranda Larbi, _"Diversifying the outdoors: meet the leaders of colour busy making hiking, trail running and biking more accessible for all"_, Stylist, Jul 2023](https://www.stylist.co.uk/fitness-health/diversifying-the-outdoors-the-summit/801256).
 
+### Community-authored articles
+
+Writings from our community members. Find more on the [ESEA Outdoors UK Substack](https://eseaoutdoorsuk.substack.com/).
+
+- Inclusivity-washing. [Wang, _"Against inclusivity-washing in the outdoors"_, Substack, Dec 2024](https://eseaoutdoorsuk.substack.com/p/against-inclusivity-washing).
+- Nature connection and equity of access. [Wang, _"Access to nature - but for whom?"_, Substack, Oct 2024](https://eseaoutdoorsuk.substack.com/p/access-to-nature).
+- Urban community and nature. [Ingrina Shieh, _"Walking on London's wild side"_, London National Park City, Aug 2024](https://nationalparkcity.london/ranger-story-ingrina-shieh).
+- Belonging and fell-running. [Charmaine Sew, "SCARPA Great Lakeland 3 Day", Substack, Jul 2024](https://quotidianresistance.substack.com/p/scarpa-great-lakeland-3day).
+- Access and outdoor sports. [Wang, _"Diversity in the Mountains at GL3D"_, BMC Summit Mag, Jun 2024](https://eseaoutdoorsuk.substack.com/p/diversity-in-the-mountains-at-gl3d).
+- Colonialism, conservation, history. [Aileen Angsutorn Lees, _"Decolonising conservation in the UK"_, Jun 2024](https://shado-mag.com/opinion/decolonising-conservation-in-the-uk/).
+- Diversity and representation. [Wang, _"East & Southeast Asian people go outdoors too"_, BMC, Mar 2024](https://eseaoutdoorsuk.substack.com/p/east-and-southeast-asian-people-go-outdoors-too).
+- Transport and experience. [Ingrina Shieh, _"Transport troubles, limited freedom to roam and knowing where to go: the many barriers to accessing Great British walking"_, Slow Ways, Aug 2023](https://buildstories.slowways.org/transport-troubles-limited-freedom-to-roam-and-knowing-where-to-go-the-many-barriers-to-accessing-great-british-walking/).
+- ESEA invisibility and erasure. [Mai-Anh Peterson, _"What's in a name?"_, besea.n, Sep 2020](https://www.besean.co.uk/spotlight/whats-in-a-name).
+
+
 ## Press
 
 Find a backlog of community-authored articles on the [ESEA Outdoors UK Substack](https://eseaoutdoorsuk.substack.com/).
