@@ -37,3 +37,5 @@ plugins:
 
 remote_theme: jonaharagon/jekyll-bootstrap-theme
 # Theme configuration information: https://github.com/jonaharagon/jekyll-bootstrap-theme
+
+google_analytics: G-Q46T5S7BY3
