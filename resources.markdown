@@ -91,10 +91,11 @@ ESEA (pronounced "E-C") stands for East & Southeast Asian.
 
 Writings from our community members. Find more on the [ESEA Outdoors UK Substack](https://eseaoutdoorsuk.substack.com/).
 
+- Fear and belonging in the mountains. [Charmaine Sew, _"Fear and Belonging In The Mountains"_, Substack, Feb 2025](https://quotidianresistance.substack.com/p/fear-and-belonging-in-the-mountains).
 - Inclusivity-washing. [Wang, _"Against inclusivity-washing in the outdoors"_, Substack, Dec 2024](https://eseaoutdoorsuk.substack.com/p/against-inclusivity-washing).
 - Nature connection and equity of access. [Wang, _"Access to nature - but for whom?"_, Substack, Oct 2024](https://eseaoutdoorsuk.substack.com/p/access-to-nature).
 - Urban community and nature. [Ingrina Shieh, _"Walking on London's wild side"_, London National Park City, Aug 2024](https://nationalparkcity.london/ranger-story-ingrina-shieh).
-- Belonging and fell-running. [Charmaine Sew, "SCARPA Great Lakeland 3 Day", Substack, Jul 2024](https://quotidianresistance.substack.com/p/scarpa-great-lakeland-3day).
+- Belonging and fell-running. [Charmaine Sew, _"SCARPA Great Lakeland 3 Day"_, Substack, Jul 2024](https://quotidianresistance.substack.com/p/scarpa-great-lakeland-3day).
 - Access and outdoor sports. [Wang, _"Diversity in the Mountains at GL3D"_, BMC Summit Mag, Jun 2024](https://eseaoutdoorsuk.substack.com/p/diversity-in-the-mountains-at-gl3d).
 - Colonialism, conservation, history. [Aileen Angsutorn Lees, _"Decolonising conservation in the UK"_, Jun 2024](https://shado-mag.com/opinion/decolonising-conservation-in-the-uk/).
 - Diversity and representation. [Wang, _"East & Southeast Asian people go outdoors too"_, BMC, Mar 2024](https://eseaoutdoorsuk.substack.com/p/east-and-southeast-asian-people-go-outdoors-too).
