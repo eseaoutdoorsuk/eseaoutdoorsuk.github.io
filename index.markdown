@@ -6,7 +6,3 @@ layout: home
 #redirect_to:
 #  - /
 ---
-
-Test
- 
-test
