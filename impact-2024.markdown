@@ -22,7 +22,7 @@ permalink: /impact-2024/
 
 > There is great value in braving the wild. But sometimes, it gets isolating. You long for familiarity. And so you seek comfort in shared values and cultures in a space so integral to your identity. *(after our October Lake District trip)*
 
-> It is a wonderful thing to celebrate the rich diversity and histories among the ESEA community. Many of us have roots around the globe, being part of families who have migrated far and wide for myriad reasons. Some of us have moved from our homelands, some of us never knew our homelands. *(after our Roots/Routes walk in Walthamstow for ESEA Heritage Month)*
+> It is a wonderful thing to celebrate the rich diversity and histories among the ESEA community. Many of us have roots around the globe, being part of families who have migrated far and wide for myriad reasons. Some of us have moved from our homelands, some of us never knew our homelands. *(after our Roots/Routes walk in Walthamstow for [ESEA Heritage Month](https://www.eseaheritagemonth.co.uk/))*
 
 > Every time I come to the fells I absorb casually racist remarks; I've developed resilience, but it still hurts. This weekend, in a group, it feels safe, like I could put my guard down for a bit. *(after Great Lakeland 3 Day)*
 
@@ -43,7 +43,7 @@ permalink: /impact-2024/
 - [Lake District Foundation](https://www.lakedistrictfoundation.org) for fully funding our trip to the North Lakes ([check it out!](https://www.instagram.com/p/DBySGNFIleF/))
 - [YHA Outdoor Citizens](https://www.yha.org.uk/outdoor-citizens) for fully funding our trip to YHA Cheddar ([check it out!](https://www.instagram.com/p/DBLNgGUI_oT/))
 - [Alpkit Foundation](https://alpkit.com/pages/foundation) for funding numerous regular climb socials (including at [Yonder](https://www.thisisyonder.com)).
-- [British ESEA Network](https://www.besean.co.uk) for funding several of our ESEA Heritage Month events (including one joint with [Every Body Outdoors](https://www.everybodyoutdoors.co.uk) and [London National Park City](https://nationalparkcity.london)).
+- [British ESEA Network](https://www.besean.co.uk) for funding several of our [ESEA Heritage Month](https://www.eseaheritagemonth.co.uk/) events (including one joint with [Every Body Outdoors](https://www.everybodyoutdoors.co.uk) and [London National Park City](https://nationalparkcity.london)).
 - [Slow Ways](https://beta.slowways.org) for funding a multi-day adventure.
 - [Ourea Events](https://www.oureaevents.com) for giving funded places to [Great Lakeland 3 Day](https://www.greatlakeland3day.com/news/2024/4/23/2024-scarpa-great-lakeland-3-day-event-director-report).
 - [Heylo](https://www.heylo.com/) for providing and supporting our community online platform.
@@ -54,7 +54,7 @@ permalink: /impact-2024/
 
 #### Members
 
-As of end of 2024, our **150** members (according to our online platform, Heylo) were geographically distributed around the UK with sub-communities, as of 2024, in Edinburgh, Glasgow, Manchester, Liverpool, London, Sheffield and Bristol. We're constantly expanding to new areas where members exist and need your help!
+In mid-2023, ESEA Outdoors started out as just one member, and in the first few months, we started finding our feet. As of end of 2024, our **150** members (according to our online platform, Heylo) were geographically distributed around the UK with sub-communities, as of 2024, in Edinburgh, Glasgow, Manchester, Liverpool, London, Sheffield and Bristol. We're constantly expanding to new areas where members exist and need your help!
 
 <p align="center">
   <img src="/assets/img/impact_2024/members.png" alt="2024 members" style="width:80%;"><br>
@@ -78,7 +78,7 @@ ESEA Outdoors' success reflects the commitment and passion of all of our members
 
 ### Want to partner with us?
 
-Could your organisation support us in improving diversity in the outdoors and providing more opportunities for the ESEA community? Get in touch via [email](mailto:eseaoutdoorsuk@gmail.com) or [DM](https://www.instagram.com/eseaoutdoorsuk/)!
+Could your organisation support us in improving diversity in the outdoors and providing more opportunities for the ESEA community? Inspired by the above? Get in touch via [email](mailto:eseaoutdoorsuk@gmail.com) or [DM](https://www.instagram.com/eseaoutdoorsuk/)!
   
 > Community groups exist to create safe spaces. They exist to support people in accessing the outdoors. They exist to rebel. To challenge the status quo. *(ESEA Outdoors member)*
 
