@@ -6,6 +6,11 @@ body {
     overflow-x: hidden;
 }
 
+.bg-color {
+    background-color: #F8F5EF;
+    z-index: -2;
+  }
+
 blockquote {
     margin: 1.5rem 0;
     padding-left: 1rem;
