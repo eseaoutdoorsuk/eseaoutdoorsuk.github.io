@@ -5,7 +5,8 @@ full_title: ESEA Outdoors 2024 Impact Summary
 permalink: /impact-2024/
 ---
   
-*Note from the author*. ESEA Outdoors UK started off as a question: is there anyone else that looks like me out there in the outdoors? In our first full year of existence, we have shown that we can build a community of ESEA people in the outdoors, and that our representation matters to our members and to society. We can only capture a fraction of this joy in numbers and words. I hope that, while reading this impact report, you will agree that it is not an understatement to say that we have transformed members' lives.
+*Note from the author*. ESEA Outdoors UK started off as a question: is there anyone else that looks like me out there in the outdoors? In our first full year of existence, we have shown that we can build a community of ESEA people in the outdoors, and that our representation matters to our members and to society. We can only capture a fraction of this joy in numbers and words. I hope that, while reading this impact report, you will agree that it is not an understatement to say that we have transformed members' lives.  
+
 
 <p align="center"><img src="/assets/img/impact_2024/1.jpg" alt="esea 1" style="width:100%;"></p>
 
