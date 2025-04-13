@@ -57,7 +57,7 @@ permalink: /impact-2024/
 As of end of 2024, our **150** members (according to our online platform, Heylo) were geographically distributed around the UK with sub-communities, as of 2024, in Edinburgh, Glasgow, Manchester, Liverpool, London, Sheffield and Bristol. We're constantly expanding to new areas where members exist and need your help!
 
 <p align="center">
-  <img src="/assets/img/impact_2024/members.png" alt="2024 members" style="width:60%;"><br>
+  <img src="/assets/img/impact_2024/members.png" alt="2024 members" style="width:80%;"><br>
   <em>Above: community members on the <a href="https://eseaoutdoors.uk/map/">ESEA Outdoors map</a></em>
 </p>
 
@@ -66,7 +66,7 @@ As of end of 2024, our **150** members (according to our online platform, Heylo)
 In 2024 our volunteers ran a total of **19** official events with a total of **169** check-ins, alongside countless informal meetups. Our events included group walks, climbing socials, fully-funded weekends away, and funded festival and event places, and were spread right across the UK, with locations including central Scotland, North Wales, the Lake District and Peak District, London, Manchester and many more!
 
 <p align="center">
-  <img src="/assets/img/impact_2024/meetups.png" alt="2024 meetups" style="width:60%;"><br>
+  <img src="/assets/img/impact_2024/meetups.png" alt="2024 meetups" style="width:80%;"><br>
   <em>Above: community meetups on the <a href="https://eseaoutdoors.uk/map/">ESEA Outdoors map</a></em>
 </p>
 
