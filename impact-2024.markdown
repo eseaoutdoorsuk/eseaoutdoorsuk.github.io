@@ -10,7 +10,7 @@ permalink: /impact-2024/
 
 <p align="center"><img src="/assets/img/impact_2024/1.jpg" alt="esea 1" style="width:100%;"></p>
 
-**ESEA Outdoors UK is a community connecting East & Southeast Asian outdoor enthusiasts across the UK and celebrating our representation.**
+**ESEA Outdoors UK is a community connecting East & Southeast Asian outdoor enthusiasts across the UK, celebrating our representation and fighting racism.**
 
 ### What members say...
 
@@ -20,11 +20,11 @@ permalink: /impact-2024/
 
 > When you see 14 others that look like you in a field of 800, you feel less out of place.
 
+> Every time I come to the fells I absorb casually racist remarks; I've developed resilience, but it still hurts. This weekend, in a group, it feels safe, like I could put my guard down for a bit.
+
 > There is great value in braving the wild. But sometimes, it gets isolating. You long for familiarity. And so you seek comfort in shared values and cultures in a space so integral to your identity. *(after our October Lake District trip)*
 
 > It is a wonderful thing to celebrate the rich diversity and histories among the ESEA community. Many of us have roots around the globe, being part of families who have migrated far and wide for myriad reasons. Some of us have moved from our homelands, some of us never knew our homelands. *(after our Roots/Routes walk in Walthamstow for [ESEA Heritage Month](https://www.eseaheritagemonth.co.uk/))*
-
-> Every time I come to the fells I absorb casually racist remarks; I've developed resilience, but it still hurts. This weekend, in a group, it feels safe, like I could put my guard down for a bit. *(after Great Lakeland 3 Day)*
 
 > ...It really highlighted the necessity of groups like ours \[after\] coming across a few occasions of racism and microaggressions. *(after our October trip to YHA Cheddar)*
 
@@ -47,6 +47,7 @@ permalink: /impact-2024/
 - [Slow Ways](https://beta.slowways.org) for funding a multi-day adventure.
 - [Ourea Events](https://www.oureaevents.com) for giving funded places to [Great Lakeland 3 Day](https://www.greatlakeland3day.com/news/2024/4/23/2024-scarpa-great-lakeland-3-day-event-director-report).
 - [Heylo](https://www.heylo.com/) for providing and supporting our community online platform.
+- [All The Elements](https://www.alltheelements.co/) who, alongside their core support, platformed our panel at [Timber Festival](https://timberfestival.org.uk/2024-programme/using-community-to-tackle-racism-in-the-outdoors-an-esea-perspective/), the first ever all-ESEA outdoors panel.
 
 <p align="center"><img src="/assets/img/impact_2024/3.jpg" alt="esea 3" style="width:100%;"></p>
 
@@ -54,7 +55,7 @@ permalink: /impact-2024/
 
 #### Members
 
-In mid-2023, ESEA Outdoors started out as just one member, and in the first few months, we started finding our feet. As of end of 2024, our **150** members (according to our online platform, Heylo) were geographically distributed around the UK with sub-communities, as of 2024, in Edinburgh, Glasgow, Manchester, Liverpool, London, Sheffield and Bristol. We're constantly expanding to new areas where members exist and need your help!
+In mid-2023, ESEA Outdoors started out as just one member, and in the first few months, we were finding our feet. As of end of 2024, our **150** members (according to our online platform, Heylo) were geographically distributed around the UK with sub-communities, as of 2024, in Edinburgh, Glasgow, Manchester, Liverpool, London, Sheffield and Bristol. We're constantly expanding to new areas where members exist and need your help!
 
 <p align="center">
   <img src="/assets/img/impact_2024/members.png" alt="2024 members" style="width:80%;"><br>
@@ -69,6 +70,8 @@ In 2024 our volunteers ran a total of **19** official events with a total of **1
   <img src="/assets/img/impact_2024/meetups.png" alt="2024 meetups" style="width:80%;"><br>
   <em>Above: community meetups on the <a href="https://eseaoutdoors.uk/map/">ESEA Outdoors map</a></em>
 </p>
+
+Each one of these check-ins is a direct instance of our members changing and challenging the face of the outdoors. While our numerous local events built community and empowered members in specific locations, our bigger events also strengthened our network and formed friendships across locations and previously isolated communities. We also had a wider impact on our diaspora. A high proportion of our social media following consists of members of the ESEA diaspora. Seeing our project success will inspire them to try the outdoors next time, breaking barriers in confidence and lack of belonging.
 
 ### Looking ahead
 
