@@ -9,7 +9,7 @@ permalink: /guidelines/
 
 The ESEA Outdoors UK community is for outdoors and nature enthusiasts self-identifying with East & Southeast Asian (ESEA) heritage who are passionate about anti-racism, representation and inclusion.
 
-By joining the ESEA Outdoors UK community, you accept and abide by our following policies both online and at our organised meet-ups. The policies detail what we expect from you, and what you can expect from us. The policies act as an extension of the [ESEA Outdoors UK Constitution](https://eseaoutdoors.uk/assets/pdf/constitution.pdf).
+By joining the ESEA Outdoors UK community, you accept and abide by our following policies both online and at our organised meet-ups. The policies detail what we expect from you, and what you can expect from us.
 
 1. [Our Principles](#our-principles)
 2. [Safer Spaces Policy](#our-safer-spaces-policy)

@@ -8,8 +8,10 @@ body {
 
 .bg-color {
     background-color: #F8F5EF;
-    z-index: -2;
   }
+body.transparent .bg-color {
+    background-color: transparent;
+}
 
 blockquote {
     margin: 1.5rem 0;
