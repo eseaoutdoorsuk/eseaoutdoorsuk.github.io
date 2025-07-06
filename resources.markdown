@@ -91,7 +91,8 @@ ESEA (pronounced "E-C") stands for East & Southeast Asian.
 
 Writings from our community members. Find more on the [ESEA Outdoors UK Substack](https://eseaoutdoorsuk.substack.com/).
 
-- Fear and belonging in the mountains. [Charmaine Sew, _"Fear and Belonging In The Mountains"_, Substack, Feb 2025](https://quotidianresistance.substack.com/p/fear-and-belonging-in-the-mountains).
+
+- Fear and belonging in the mountains. [Charmaine Sew, _"Fear and Belonging In The Mountains"_, Substack, Feb 2025](https://quotidianresistance.substack.com/p/fear-and-belonging-in-the-mountains) - published in the [BMC Summit Mag, Jun 2024](https://btpubs.co.uk/html5_viewer/index.html?publication_id=71457&issue_id=848304&view=articleBrowser&article_id=4999577&ver=html5).
 - Inclusivity-washing. [Wang, _"Against inclusivity-washing in the outdoors"_, Substack, Dec 2024](https://eseaoutdoorsuk.substack.com/p/against-inclusivity-washing).
 - Nature connection and equity of access. [Wang, _"Access to nature - but for whom?"_, Substack, Oct 2024](https://eseaoutdoorsuk.substack.com/p/access-to-nature).
 - Urban community and nature. [Ingrina Shieh, _"Walking on London's wild side"_, London National Park City, Aug 2024](https://nationalparkcity.london/ranger-story-ingrina-shieh).
