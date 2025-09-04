@@ -108,6 +108,7 @@ Writings from our community members. Find more on the [ESEA Outdoors UK Substack
 
 Find a backlog of community-authored articles on the [ESEA Outdoors UK Substack](https://eseaoutdoorsuk.substack.com/).
 
+- 01-09-2025 \| [The Great Outdoors](https://shop.kelsey.co.uk/single-issue/the-great-outdoors-magazine/2245) \| _The view from here - an interview with ESEA Outdoors UK_ (forthcoming)
 - 18-06-2024 \| [BMC Summit magazine](https://www.thebmc.co.uk/cats/all/summit_magazine) \| [_Diversity in the Mountains at the Great Lakeland 3 Day_](https://eseaoutdoorsuk.substack.com/p/diversity-in-the-mountains-at-gl3d) (free to read)
 - 21-03-2024 \| BMC \| [_East and Southeast Asian people go outdoors too_](https://eseaoutdoorsuk.substack.com/p/east-and-southeast-asian-people-go-outdoors-too)
 
