@@ -7,7 +7,7 @@ permalink: /guidelines/
 
 ## Introduction
 
-The ESEA Outdoors UK community is for outdoors and nature enthusiasts self-identifying with East & Southeast Asian (ESEA) heritage who are passionate about anti-racism, representation and inclusion.
+The ESEA Outdoors UK community is for outdoors and nature enthusiasts self-identifying with East & Southeast Asian (ESEA [[1]](#footnotes)) heritage who are passionate about anti-racism, representation and inclusion.
 
 By joining the ESEA Outdoors UK community, you accept and abide by our following policies both online and at our organised meet-ups. The policies detail what we expect from you, and what you can expect from us.
 
@@ -22,8 +22,8 @@ By joining the ESEA Outdoors UK community, you accept and abide by our following
 
 ## Our Principles
 
-1. We exist to fight racism and celebrate ESEA representation in the UK outdoors. We have built this community to connect ESEA outdoor enthusiasts in the UK. While we appreciate we all have other interests, please be mindful of what you promote or discuss in the ESEA Outdoors WhatsApp community, and keep messages to these topics.
-2. We value inclusive representation, equity and equality within our own community, and we acknowledge the intersectionality of our community. All our events are ESEA-only unless otherwise specified. We operate a [Safer Spaces policy](#our-safer-spaces-policy) during all activities, events, in our WhatsApp community and online: see below.
+1. We exist to fight racism and celebrate ESEA representation in the UK outdoors. We have built this community to connect ESEA outdoor enthusiasts in the UK. While we appreciate we all have other interests, please be mindful of what you promote or discuss on the community platform, and keep messages to these topics.
+2. We value inclusive representation, equity and equality within our own community, and we acknowledge the intersectionality of our community. All our events are ESEA-only unless otherwise specified. We operate a [Safer Spaces policy](#our-safer-spaces-policy) during all activities, events, on our community platform and online: see below.
 3. Our community is run by its members, so please actively participate in building our community, engage with others and help to plan activities. We all run ESEA Outdoors in our free time, so please be respectful of the efforts of others and how you communicate with each other.
 4. We reserve the right to limit or delete comments on our Instagram page, and to remove or ban members from our WhatsApp, Heylo and Instagram and at in-person events who breach our Principles or [Safer Spaces policy](#our-safer-spaces-policy).
 
@@ -48,7 +48,7 @@ We abide by the following policy within our spaces or those we associate ourselv
 - **Labour**: please contribute whatever you can to amplifying ESEA voices; this will be different for everyone and that’s fine. It’s ok to make mistakes. Please show appreciation for the hard work of others and be considerate when you offer criticism. This is no one’s day job. We put in the work because we are committed to real change. 
 - **Social**: like other communities we build social relationships outside of events and online spaces. We commit to this Safer Spaces policy wherever we are together. We reserve the right to refuse participation if members appear intoxicated.
 - **Security**: without their explicit consent, don’t use or share the names, photographs, telephone numbers, email addresses, social media profiles or other identifying details of people who have been involved in organising or attending our events. This makes sure that people outside of the group don’t hold information that could put participants at risk of harm.
-- **Community accountability**: we expect all our members to hold each other accountable, by calling out and challenging unacceptable behaviour during and outwith our activities, events or within our offline or online spaces. We have a responsibility to protect and uplift each other. If you have any concerns about your safety or the safety of others at any ESEA Outdoors event or in our online spaces, please notify one of the ESEA Outdoors administrators immediately. They are identified as ‘Community Admins’ on WhatsApp.
+- **Community accountability**: we expect all our members to hold each other accountable, by calling out and challenging unacceptable behaviour during and outwith our activities, events or within our offline or online spaces. We have a responsibility to protect and uplift each other. If you have any concerns about your safety or the safety of others at any ESEA Outdoors event or in our online spaces, please notify one of the ESEA Outdoors administrators immediately. They are identified as "Admins" on Heylo.
 
 💛 ESEA love from the ESEA Outdoors admins
 
@@ -138,3 +138,7 @@ All communications from us to you will be via Heylo (via group chat, DM, push no
 We will never share your personal information with any third-parties unless with explicit direct permission from you, for example for the purpose of externally organised event registration where ESEA Outdoors UK has been invited to participate and you have agreed to register.
 
 💛 Any questions and comments, or if you are unhappy with how your data is being used, get in touch with the ESEA Outdoors admins [via email or Instagram](https://eseaoutdoors.uk).
+
+## Footnotes
+
+1. Our community is for people who self-identify as ESEA on the basis of genuine ancestral heritage. Lived experience may include, but is not limited to, diaspora, racialisation, adoption or cultural upbringing. Cultural interest or symbolic association alone are not sufficient. East & Southeast Asian (ESEA) heritage refers to people with ancestral and ethnic heritage rooted in East and Southeast Asia, including Brunei, Cambodia, China, Hong Kong, Indonesia, Japan (including Ainu and Ryukyuan peoples), Korea (North and South), Laos, Macau, Malaysia, Mongolia, Myanmar, the Philippines, Singapore, Taiwan, Thailand, Timor-Leste, and Vietnam. This includes Indigenous peoples and ethnic minorities from these regions.
