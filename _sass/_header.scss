@@ -13,3 +13,20 @@ body {
 .custom-header-bg {
     background-color: #EDE7D9 !important;
 }
+.donate-btn {
+  background-color: #276359;
+  color: white;
+  border: 0;
+  font-weight: bold;
+  max-width: 100%;
+  box-sizing: border-box;
+  border-radius: 40px;
+  position: relative;
+  top: -5px;
+  left: -5px;
+}
+.donate-btn:hover,
+.donate-btn:focus {
+  background-color: #4b7d74;
+  color: white;
+}
