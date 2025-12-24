@@ -20,6 +20,11 @@ By joining the ESEA Outdoors UK community, you accept and abide by our following
 
 💛 Any questions and comments get in touch with the ESEA Outdoors admins [via email or Instagram](https://eseaoutdoors.uk).
 
+
+#### Constitution
+
+Find a [copy of our constitution here](/assets/pdf/constitution.pdf).
+
 ## Our Principles
 
 1. We exist to fight racism and celebrate ESEA representation in the UK outdoors. We have built this community to connect ESEA outdoor enthusiasts in the UK. While we appreciate we all have other interests, please be mindful of what you promote or discuss on the community platform, and keep messages to these topics.
