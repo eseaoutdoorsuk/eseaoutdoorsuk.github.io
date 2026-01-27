@@ -20,9 +20,19 @@
 
 title: ESEA Outdoors UK
 author:
+  name: ESEA Outdoors UK
+  email: eseaoutdoorsuk@gmail.com
   copyright: 'Copyright © ESEA Outdoors UK '
-description: >- # this means to ignore newlines until "baseurl:"
+tagline: ESEA Outdoors UK
+description: ESEA Outdoors UK is a grassroots community celebrating East & Southeast Asian representation in the UK outdoors and fighting racism.
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/logo.png
+
+logo: /assets/img/logo.png
 
 bootstrap:
   social_links:
@@ -34,6 +44,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 remote_theme: jonaharagon/jekyll-bootstrap-theme
 # Theme configuration information: https://github.com/jonaharagon/jekyll-bootstrap-theme
