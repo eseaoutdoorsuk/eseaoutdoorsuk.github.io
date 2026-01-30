@@ -11,7 +11,7 @@ permalink: /impact-2025/
 
 ### Introduction
 
-This report evidences the impact brought by the work of community organisers, our partners and the generosity of the funding we received. Our impact manifests in many ways: from local impact, to how we scale impact and make it sustainable.
+This report evidences the impact brought by the work of community organisers, our partners and the generosity of the funding we received. Our impact manifests in many ways: from **local impact**, to how we **scale impact** and make it **sustainable**.
 
 ### Testimonials
 
@@ -112,23 +112,23 @@ Here's what our members had to say:
 
 **Thanks to our visionary partners** for funding access to the outdoors:
 
-- YHA Outdoor Citizens, YHA Festival of Walking and the Pilgrim Trust for fully-funding 2 weekend trips to the Peak District and Northumberland NPs;
-- Alpkit Foundation for funding 4 climbing socials throughout the year;
-- Love Trails Festival for funding 5 free places for us to lead a community hike and speak on stage;
-- Peak Divide for funding 2 places to their annual ultramarathon shuffle;
-- Kent Downs National Landscape for providing transport bursaries to take our community to the North Downs Way National Trail;
+- **YHA Outdoor Citizens**, YHA Festival of Walking and the Pilgrim Trust for fully-funding 2 weekend trips to the Peak District and Northumberland NPs;
+- **Alpkit Foundation** for funding 4 climbing socials throughout the year;
+- **Love Trails Festival** for funding 5 free places for us to lead a community hike and speak on stage;
+- **Peak Divide** for funding 2 places to their annual ultramarathon shuffle;
+- **Kent Downs National Landscape** for providing transport bursaries to take our community to the North Downs Way National Trail;
 
 **Thanks to our partners** who supported our community in diverse ways:
 
-- Climbing gyms around the UK for hosting our community, providing discounts and supporting us on social media: Depot Climbing (Manchester, Big Manchester, Birmingham), Yonder (London), Rise Climbing (London), TCA (Glasgow, Bristol), TCH (Bristol, Liverpool), Flashpoint (Bristol), Brushworks (Glasgow);
-- Epping Forest Heritage Trust for delivering a free hands-on conservation workshop for our community;
-- ClimbOut Festival for giving us a platform to speak about intersecting ESEA and LGBTQI+ identities on stage;
-- The Great Outdoors magazine and BMC Summit magazine for giving us 6 pages to spread awareness in writing;
-- Wanderers of Colour, Asian Climbing Crew, T-Climbing and Queer Climbers London for organising our joint Climb for Palestine, Send for Sudan fundraiser socials;
-- ESA.NE (Northeast) for bringing our communities together for YHA Festival of Walking;
-- Four Winds Mahjong for bringing our communities together for our end of year party;
-- Tenzing for providing free drinks on demand 🚀
-- All The Elements and Patagonia for supporting core work.
+- Climbing gyms around the UK for hosting our community, providing discounts and supporting us on social media: **Depot Climbing** (Manchester, Big Manchester, Birmingham), **Yonder** (London), **Rise Climbing** (London), **TCA** (Glasgow, Bristol), **TCH** (Bristol, Liverpool), **Flashpoint** (Bristol), **Brushworks** (Glasgow);
+- **Epping Forest Heritage Trust** for delivering a free hands-on conservation workshop and walk for our community;
+- **ClimbOut Festival** for giving us a platform to speak about intersecting ESEA and LGBTQI+ identities on stage;
+- **The Great Outdoors** magazine and **BMC Summit** magazine for giving us 6 pages to spread awareness in writing;
+- **Wanderers of Colour**, **Asian Climbing Crew**, **T-Climbing** and **Queer Climbers London** for organising our joint Climb for Palestine, Send for Sudan fundraiser socials;
+- **ESA.NE** (Northeast) for bringing our communities together for YHA Festival of Walking;
+- **Four Winds Mahjong** for bringing our communities together for our end of year party;
+- **Tenzing** for providing free drinks on demand 🚀
+- **All The Elements** and **Patagonia** for supporting core work.
 
 
 ### Want to partner with us?
