@@ -9,6 +9,8 @@ permalink: /impact-2025/
 
 **ESEA Outdoors UK is a grassroots community celebrating East & Southeast Asian representation and belonging in the UK outdoors and fighting racism.**
 
+[**Donate to ESEA Outdoors UK**](https://donate.stripe.com/9B628t6KC7wQ5Yu4XYgjC00){: .btn .ms-3 .donate-btn .align-middle target="_blank" }
+
 ### Introduction
 
 This report evidences the impact brought by the work of community organisers, our partners and the generosity of the funding we received. Our impact manifests in many ways: from **local impact**, to how we **scale impact** and make it **sustainable**.
