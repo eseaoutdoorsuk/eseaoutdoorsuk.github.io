@@ -7,7 +7,9 @@ permalink: /guidelines/
 
 ## Introduction
 
-The ESEA Outdoors UK community is for outdoors and nature enthusiasts self-identifying with East & Southeast Asian (ESEA [[1]](#footnotes)) heritage who are passionate about anti-racism, representation and inclusion.
+The ESEA Outdoors UK community is for East & Southeast Asian people who want to advocate for ESEA representation in the UK outdoors and challenge racism. Our community is only for people who self-identify as having heritage, ancestry, or cultural connection to East Asian or Southeast Asian countries or ethnic groups, including Brunei, Cambodia, China, Hong Kong, Indonesia, Japan (including Ainu and Ryukyuan peoples), Korea (North and South), Laos, Macau, Malaysia, Mongolia, Myanmar, the Philippines, Singapore, Taiwan, Thailand, Timor-Leste, and Vietnam. This includes Indigenous peoples and ethnic minorities from these regions. 
+
+Lived experience may include, but is not limited to, diaspora, racialisation, adoption or cultural upbringing. Mixed heritages are included. Cultural interest or symbolic association alone are not sufficient. Please only sign up if this space is intended for you.
 
 By joining the ESEA Outdoors UK community, you accept and abide by our following policies both online and at our organised meet-ups. The policies detail what we expect from you, and what you can expect from us.
 
@@ -143,7 +145,3 @@ All communications from us to you will be via Heylo (via group chat, DM, push no
 We will never share your personal information with any third-parties unless with explicit direct permission from you, for example for the purpose of externally organised event registration where ESEA Outdoors UK has been invited to participate and you have agreed to register.
 
 💛 Any questions and comments, or if you are unhappy with how your data is being used, get in touch with the ESEA Outdoors admins [via email or Instagram](https://eseaoutdoors.uk).
-
-## Footnotes
-
-1. Our community is for people who self-identify as ESEA on the basis of genuine ancestral heritage. Lived experience may include, but is not limited to, diaspora, racialisation, adoption or cultural upbringing. Cultural interest or symbolic association alone are not sufficient. East & Southeast Asian (ESEA) heritage refers to people with ancestral and ethnic heritage rooted in East and Southeast Asia, including Brunei, Cambodia, China, Hong Kong, Indonesia, Japan (including Ainu and Ryukyuan peoples), Korea (North and South), Laos, Macau, Malaysia, Mongolia, Myanmar, the Philippines, Singapore, Taiwan, Thailand, Timor-Leste, and Vietnam. This includes Indigenous peoples and ethnic minorities from these regions.
